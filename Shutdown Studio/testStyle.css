@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+body{
+  padding: 100px;
+  position: relative;
+}
+#hero1{
+  height: 20vw;
+  width: 20vw;
+  background-color: orangered;
+  filter: blur(10px);
+  border-radius: 50%;
+  position: absolute;
+}
+#hero2{
+  height: 20vw;
+  width: 20vw;
+  background-color: orangered;
+  filter: blur(10px);
+  border-radius: 50%;
+  position: absolute;
+}
